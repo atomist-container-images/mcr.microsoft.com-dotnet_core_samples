@@ -1,2 +1,2 @@
 # Tags: dotnetapp-nanoserver-1809
-FROM dotnet/core/samples:dotnetapp-nanoserver-1809
+FROM mcr.microsoft.com/dotnet/core/samples:dotnetapp-nanoserver-1809

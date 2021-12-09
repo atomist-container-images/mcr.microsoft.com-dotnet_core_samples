@@ -1,2 +1,2 @@
 # Tags: aspnetapp-nanoserver-20H2
-FROM dotnet/core/samples:aspnetapp-nanoserver-20H2
+FROM mcr.microsoft.com/dotnet/core/samples:aspnetapp-nanoserver-20H2

@@ -1,0 +1,2 @@
+# Tags: dotnetapp-buster-slim-amd64
+FROM dotnet/core/samples:dotnetapp-buster-slim-amd64

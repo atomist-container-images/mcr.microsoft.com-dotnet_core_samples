@@ -1,0 +1,2 @@
+# Tags: dotnetapp-nanoserver-20H2
+FROM dotnet/core/samples:dotnetapp-nanoserver-20H2

@@ -1,2 +1,0 @@
-# Tags: dotnetapp-nanoserver-20H2
-FROM mcr.microsoft.com/dotnet/core/samples:dotnetapp-nanoserver-20H2
